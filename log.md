@@ -8,3 +8,10 @@
 
 **Link to work:** https://github.com/austinlords/my-first-webpage
 
+### Day 2: January 20, 2019
+
+**Today's Progress**: Review CSS media queries, cascading, selecting, box model + introduction to Bootstrap 
+
+**Thoughts:** I'll be using Bootstrap for everything from now on! Not a fan of spending hours on the CSS to make things look nice. 
+
+**Link to work:** https://github.com/austinlords/media-queries https://github.com/austinlords/week-in-review
