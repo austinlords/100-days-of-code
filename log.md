@@ -15,3 +15,11 @@
 **Thoughts:** I'll be using Bootstrap for everything from now on! Not a fan of spending hours on the CSS to make things look nice. 
 
 **Link to work:** https://github.com/austinlords/media-queries https://github.com/austinlords/week-in-review
+
+### Day 3: January 21, 2019
+
+**Today's Progress**: Bootstrap grid model, reading documentation, beginning of website replication project.  
+
+**Thoughts:** Here we go! Tomorrow will be a big project.  
+
+**Link to work:** https://github.com/austinlords/widi-homepage 
