@@ -22,4 +22,4 @@
 
 **Thoughts:** Here we go! Tomorrow will be a big project.  
 
-**Link to work:** https://github.com/austinlords/widi-homepage 
+**Link to work:** https://github.com/austinlords/wiki-homepage 
