@@ -23,3 +23,11 @@
 **Thoughts:** Here we go! Tomorrow will be a big project.  
 
 **Link to work:** https://github.com/austinlords/wiki-homepage 
+
+### Day 4-5: January 22-23, 2019
+
+**Today's Progress**: Bootstrap grid model and building wikipedia replication. Grids inside of grids!!  
+
+**Thoughts:** Tried to use position relative, absolute, etc. Then realilzed the grids inside of grids solves all those problems! 
+
+**Link to work:** https://github.com/austinlords/wiki-homepage/commit/3ad50f506859665a88012315b075bc8dd82f3592
