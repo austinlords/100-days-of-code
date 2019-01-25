@@ -31,3 +31,12 @@
 **Thoughts:** Tried to use position relative, absolute, etc. Then realilzed the grids inside of grids solves all those problems! 
 
 **Link to work:** https://github.com/austinlords/wiki-homepage/commit/3ad50f506859665a88012315b075bc8dd82f3592
+
+### Day 6: January 24, 2019
+
+**Today's Progress**: Wrapped up the replication of Wiki's homepage (at least good enough so I get the point)  
+
+**Thoughts:** Bootstrap documentation is really each to read, very helpful.  
+
+**Link to work:** https://github.com/austinlords/wiki-homepage/commit/504788991e83a9c130c6be7cdbfb7533eb6473c7
+
