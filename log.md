@@ -36,7 +36,7 @@
 
 **Today's Progress**: Wrapped up the replication of Wiki's homepage (at least good enough so I get the point)  
 
-**Thoughts:** Bootstrap documentation is really each to read, very helpful.  
+**Thoughts:** Bootstrap documentation is really easy to read, very helpful.  
 
 **Link to work:** https://github.com/austinlords/wiki-homepage/commit/504788991e83a9c130c6be7cdbfb7533eb6473c7
 
